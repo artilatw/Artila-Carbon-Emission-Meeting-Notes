@@ -11,37 +11,44 @@
   - 50.04 度電 x 20 天 x 2 個月 = 2001.4 度電
 
 ### Artila Office TECO 冰箱
+- <img src="./image 1/TECO冰箱.jpg" alt="alt text" width="400">
 - 消耗電量: 31 KWH/ 每月
 - 計算方式: 
   - 31 x 2 = 62 KW = 62 度電
 
 ### Artila Office 900 冰溫熱飲水機
+- <img src="./image 1/900 冰溫熱飲水機.jpg" alt="alt text" width="400">
 - 功率: 1100W + 180W = 1280W = 1.28KW
 - 計算方式:
   - 1.28KW x 24 小時 x 30 天 x 2 個月 = 1843.2 度電
 
 ### Artila Office 冰水機組
+- <img src="./image 1/佑牧實業 YMRH-30D 冷水機組 1.jpg" alt="alt text" width="400">
 - 功率: 20 KW/ 小時
 - 計算方式:
   - 20KW x 8 小時 x 20 天 x 2 個月 = 6400 度電
 
 ### Artila Warehouse 除溼機 (2 台)
+- <img src="./image 1/Panasonic除濕機.jpg" alt="alt text" width="400">
 - 功率: 191W
 - 計算方式:
-  - 191W x 8 小時 x 2 台 / 1000 = 3.056 度電
+  - 191W x 9 小時 X 2/ 1000 = 3.056 度電
   - 3.056 x 20 天 x 2 個月 = 122.24 度電
 
-### Air Conditioner
+### Air Conditioner 送風機
+- <img src="./image 1/送風機規格.jpg" alt="alt text" width="400">
 - 計算方式:
-  - 191W x 8 小時 x 2 台 / 1000 = 3.056 度電
+  - 功率:98W
+  - 98W x 9 小時 / 1000 = 3.056 度電
   - 3.056 x 20 天 x 2 個月 = 122.24 度電
 
-### Artila Office 其他設備
+### Artila Office 其他偵電設備介紹
 - 『✨ 台灣發貨✨圖雅 WiFi 單相電能表 80A 帶 CT 夾手機 APP 千瓦時功耗監測電量統計 90-250VAC 50/60Hz』
 - 售價: $2,015
 - 購買連結: [點此查看](https://tw.shp.ee/b8KUjXH)
 
 ## 瀚達電子 112 年 /113 年電費度數使用明細
+- <img src="./image 1/瀚達電子112年 and 113年電費度數使用明細.jpg" alt="alt text" width="400">
 - **2023 年 1 月 23 日 - 3 月 22 日**
   - 用電度數: 11520 度
   - 金額: 48849 元
