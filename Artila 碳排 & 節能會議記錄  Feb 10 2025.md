@@ -35,7 +35,7 @@
   - 191W x 9 小時 X 2/ 1000 = 3.438 度電
   - 3.438 x 20 天 x 2 個月 = 37.52 度電
 
-### Air Conditioner 送風機
+### Air Conditioner 送風機:不知道有幾台送風馬達,目前先計算1台耗電量
 - <img src="./image 1/送風機規格.jpg" alt="alt text" width="400">
 - 計算方式:
   - 功率:100W/hr
