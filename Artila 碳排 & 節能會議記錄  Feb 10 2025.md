@@ -1,6 +1,6 @@
-Feb 10/2025 Meeting Notes
-1. Make HMI of Artila for Demo
-2. 目前計算出辦公室的儀器設備最大功耗電量
+## Feb 10/2025 Meeting Notes
+### 1. Make HMI of Artila for Demo
+### 2. 目前計算出辦公室的儀器設備最大功耗電量
  ### Artila Office Light Set
 - 總數: 139 組 (每組 4 支 LED 燈)
 - 計算方式: 
