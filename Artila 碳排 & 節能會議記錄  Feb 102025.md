@@ -1,6 +1,6 @@
 ## Feb 10/2025 Meeting Notes
 ### 1. Make HMI of Artila for Demo
-### 2. 目前計算出辦公室的儀器設備最大功耗電量
+### 2. 目前先計算出辦公室的比較耗電的儀器設備最大功耗電量
  ### Artila Office Light Set
 - <img src="./image 1/Office Light tubes.jpg" alt="alt text" width="400">
 - 總數: 139 組 (每組 4 支 LED 燈)
@@ -8,38 +8,38 @@
   - 139 x 4 = 556 支燈管
   - 556 x 10W = 5560W 每小時
   - 5560W x 9 小時 = 50040W = 50.04KW = 50.04 度電
-  - 50.04 度電 x 20 天 x 2 個月 = 2001.4 度電
+  - 50.04 度電 x 20天 x 2個月 = 2001.4 度電
 
 ### Artila Office TECO 冰箱
 - <img src="./image 1/TECO冰箱.jpg" alt="alt text" width="400">
 - 消耗電量: 31 KWH/ 每月
 - 計算方式: 
-  - 31 x 2 = 62 KW = 62 度電
+  - 31 x 2個月 = 62 KW = 62 度電
 
 ### Artila Office 900 冰溫熱飲水機
 - <img src="./image 1/900 冰溫熱飲水機.jpg" alt="alt text" width="250">
 - 功率: 1100W + 180W = 1280W = 1.28KW
 - 計算方式:
-  - 1.28KW x 24 小時 x 30 天 x 2 個月 = 1843.2 度電
+  - 1.28KW x 24小時 x 30天 x 2個月 = 1843.2 度電
 
 ### Artila Office 冰水機組
 - <img src="./image 1/佑牧實業 YMRH-30D 冷水機組 1.jpg" alt="alt text" width="400">
 - 功率: 20 KW/ 小時
 - 計算方式:
-  - 20KW x 8 小時 x 20 天 x 2 個月 = 6400 度電
+  - 20KW x 9小時 x 20天 x 2個月 = 7200 度電
 
 ### Artila Warehouse 除溼機 (2 台)
 - <img src="./image 1/Panasonic除濕機.jpg" alt="alt text" width="250">
 - 功率: 191W
 - 計算方式:
-  - 191W x 9 小時 X 2/ 1000 = 3.438 度電
-  - 3.438 x 20 天 x 2 個月 = 37.52 度電
+  - 191W x 9小時 X 2台/ 1000 = 3.438 度電
+  - 3.438 x 20天 x 2個月 = 37.52 度電
 
 ### Air Conditioner 送風機:不知道有幾台送風馬達,目前先計算1台耗電量
 - <img src="./image 1/送風機規格.jpg" alt="alt text" width="300">
 - 計算方式:
   - 功率:100W/hr
-  - 100W x 9 小時 / 1000 = 0.9 度電
+  - 100W x 9小時 / 1000 = 0.9 度電
   - 0.9 x 20 天 x 2 個月 = 36 度電
 
 ### Artila Office 其他偵電設備介紹
