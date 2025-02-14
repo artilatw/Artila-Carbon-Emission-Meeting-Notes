@@ -39,11 +39,11 @@
 <img src="./image 1/Artila耗電比例.jpg" alt="alt text" width="350">
 
 ### 有冷媒之設備:
-| 盤查設備 | 冷媒名稱 | 冷媒封入量 |
+| 盤查有冷媒設備 | 冷媒名稱 | 冷媒封入量 |
 |---------|----------|------------|
 | 冰箱 | HC-R600a | 60g |
 | 飲水機 | R134 | 100g |
 | 冰水機組 | R22 | ? |
 
 ### ABC滅火器: 4支10型續壓式乾粉滅火器(滅火效能型 A-3,B-10,C)
-<img src="./image 1/滅火器.jpg" alt="alt text" width="150">
+<img src="./image 1/滅火器.jpg" alt="alt text" width="100">
