@@ -47,4 +47,4 @@
 
 ### ABC滅火器: 
 10型續壓式乾粉滅火器(滅火效能型 A-3,B-10,C): 4支
-<img src="./image 1/滅火器.jpg" alt="alt text" width="350">
+<img src="./image 1/滅火器.jpg" alt="alt text" width="150">
