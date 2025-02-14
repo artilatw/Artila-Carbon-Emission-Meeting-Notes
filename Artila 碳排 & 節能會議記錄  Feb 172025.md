@@ -1,4 +1,4 @@
-1.	比對過往的台電電費 : Chek previous bills of Artila electronic fees from 2023 to 2024.
+1.	比對過往的台電電費 : Chek previous bills of Artila electronic fee from 2023 to 2024.
 
 **a.	碳排量（CO2e數）: 1度電 = 0.509KG CO2 民國110年電力排碳係數是每度0.509公斤CO2e，每用一度電會產生0.509公斤二氧化碳當量。**
 **b.	節能比對**
