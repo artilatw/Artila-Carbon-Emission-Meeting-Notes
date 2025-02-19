@@ -63,9 +63,30 @@
 
 ### Artila Office 冰水機組
 - <img src="./image 1/佑牧實業 YMRH-30D 冷水機組 1.jpg" alt="alt text" width="400">
-- 功率: 20 KW/ 小時
-- 計算方式:
-  - 20KW x 9小時 x 20天 x 2個月 = 7200 度電
+- # Artila Office 冰水機組每日耗電量計算
+
+如果 **Artila Office 冰水機組** 的耗電量為 **20kW**，且 **每天運行 9 小時**，則每日總耗電量計算如下：
+
+### 每日耗電量計算
+
+\[
+\text{每日耗電量} = 20 \text{kW} \times 9 \text{ 小時} = 180 \text{kWh}
+\]
+
+### 結論
+
+📌 **每日耗電量：180 度 (kWh)**  
+📌 **若每度電費為 3 元新台幣，則每日電費約：**  
+
+\[
+180 \times 3 = 540 \text{ 元/天}
+\]
+
+📌 **每月 (20 天) 耗電量：約 3,600 度 (kWh).**
+    **20KW x 9小時 x 20天 x 2個月 = 7200 度電**
+
+如果電價不同，或機器實際運行時間有變動，可根據實際情況調整計算！
+
 
 ### Artila Warehouse 除溼機 (2 台)
 - <img src="./image 1/Panasonic除濕機.jpg" alt="alt text" width="250">
