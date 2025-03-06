@@ -99,7 +99,7 @@
 
 <img src="./image 1/2024瀚達電子電量費比較表A Pie chat.jpg" alt="alt text" width="400">
 
-[參考資料](Artila-碳排&節能會議記錄-Feb102025.html)
+[參考資料](Artila-碳排&節能會議記錄-Feb102025.md)
 
 ### 根據檔案內容的比較分析
 
