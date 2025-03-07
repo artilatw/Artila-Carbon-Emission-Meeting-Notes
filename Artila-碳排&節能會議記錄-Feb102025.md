@@ -3,12 +3,12 @@
 ### 2. 目前先計算出辦公室的比較耗電的儀器設備最大功耗電量
  ### Artila Office Light Set
 - <img src="./image 1/Office Light tubes.jpg" alt="alt text" width="400">
-- 總數: 139 組 (每組 4 支 LED 燈)
+- 總數: 1449 組 (每組 4 支 LED 燈)
 - 計算方式: 
-  - 139 x 4 = 556 支燈管
-  - 556 x 10W = 5560W 每小時
-  - 5560W x 9 小時 = 50040W = 50.04KW = 50.04 度電
-  - 50.04 度電 x 20天 x 2個月 = 2001.4 度電
+  - 149 x 4 = 596 支燈管
+  - 596 x 10W = 5960W 每小時
+  - 5560W x 10 小時 = 59600W = 59.6KW = 59.6 度電
+  - 59.6 度電 x 20天 x 2個月 = 2384 度電
 
 ### Artila Office TECO 冰箱
 - <img src="./image 1/TECO冰箱.jpg" alt="alt text" width="400">
