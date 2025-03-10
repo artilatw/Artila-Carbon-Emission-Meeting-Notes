@@ -54,7 +54,7 @@
 | 2025/3/10   | 7.834    | 3.121    | 1.46     | 0.346    | 2        | 0.802    | 18.43    | 6.61     | 16.21    | 1.45     | 12       |
 | 2025/3/11   |          |          |          |          |          |          |          |          |          |          |          |
 
-[參考資料](Updated_Electricity_Usage_Tracker3.xlsx)
+[參考資料](Updated-Electricity-Usage-Tracker3.xlsx)
 
 ## 辦公室與工廠電腦耗電量估算
 
