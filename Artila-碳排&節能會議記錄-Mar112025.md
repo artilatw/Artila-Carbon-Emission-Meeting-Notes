@@ -76,7 +76,7 @@
 
 [參考資料](https://docs.google.com/spreadsheets/d/15qC8A5fQTgHm3z_aiqw64yScEbDyl_wbgTKzL_kQgRc/edit?usp=sharing)
 
-
+---
 
 ## 單日總耗電度數計算（Start from 2025/3/7）
 
@@ -87,7 +87,7 @@
 - **3/12 : 53.76 + 12.6 + 9.448 = 72.649°**
 - **3/13 : 53.76 + 12.6 + 9.236 = 72.437°**
 
-
+---
 
 | 日期        | 單日總耗電度數 |
 |------------|--------------|
