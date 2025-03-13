@@ -34,6 +34,7 @@
 
 [參考資料](https://docs.google.com/document/d/1u8RTfudd8ApBmxJg5l6y_HTEd6GtGsMeeZCrC3ECWEs/edit?usp=sharing)
 
+
 ## 辦公室與工廠電腦耗電量計算
 
 - **辦公室工作用電腦數量**:  
@@ -46,6 +47,8 @@
   - **總計 ≒ 4°**
 
 **Total: 8.6 + 4 = 12.6°**
+
+
 
 ## 單日耗電量統計
 
@@ -74,6 +77,7 @@
 [參考資料](https://docs.google.com/spreadsheets/d/15qC8A5fQTgHm3z_aiqw64yScEbDyl_wbgTKzL_kQgRc/edit?usp=sharing)
 
 
+
 ## 單日總耗電度數計算（Start from 2025/3/7）
 
 - **燈光耗電量+電腦耗電量+電表實際量測電量:**
@@ -82,6 +86,7 @@
 - **3/11 : 53.76 + 12.6 + 8.468 = 74.828°** 
 - **3/12 : 53.76 + 12.6 + 9.448 = 72.649°**
 - **3/13 : 53.76 + 12.6 + 9.236 = 72.437°**
+
 
 
 | 日期        | 單日總耗電度數 |
