@@ -40,7 +40,7 @@
 
    **The Artila Factory Working PC and NB: PC x 4pcs (with LCD)≒ 4°/day**
 
-   **The Neighbor OFfice Working PC and NB: PC x 4 pcs + NB x 2pcs = 4° + 0.1° x 2 = 4.2°/day**
+   **The Neighbor Office Working PC and NB: PC x 4 pcs + NB x 2pcs = 4° + 0.1° x 2 = 4.2°/day**
 
 **The Total Working PC and NB Consumptions are:** 8.6° + 4° + 4.2° = **16.8°**
 
@@ -58,7 +58,7 @@
   - **1.28 x 7 pcs = 8.96 度電/day**
   **冷氣+空調風扇＝180 + 8.96 = 189.96 ≒ 190**
 
-[參考資料資料Artila-碳排&節能會議記錄Feb102025](Artila-碳排&節能會議記錄-Feb102025.md)
+[參考資料 Artila-碳排&節能會議記錄Feb102025](Artila-碳排&節能會議記錄-Feb102025.md)
 
 =======
  日期\類別度數  | 冰箱量表值 | 冰箱單日值 | 微波爐量表值 | 微波爐單日值 | 影印機量表值 | 影印機單日值 | 飲水機量表值 | 飲水機單日值 | 除濕機量表值 | 除濕機單日值 | 單日消耗電度數 | 紀錄時間  |
@@ -95,7 +95,7 @@
 | 2025/3/13   | 53.76  |     16.8      |      |  190   |      |
 | 2025/3/14   | 53.76  |     16.8      |      |  190   |      |
 
-[參考 Artila-碳排&節能會議記錄Feb102025](Artila-碳排&節能會議記錄-Feb102025.md)
+[參考資料 Artila-碳排&節能會議記錄Feb102025](Artila-碳排&節能會議記錄-Feb102025.md)
 
 
 
