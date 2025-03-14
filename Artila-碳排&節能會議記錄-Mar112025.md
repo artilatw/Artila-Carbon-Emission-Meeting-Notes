@@ -34,6 +34,7 @@
 
 [參考資料](https://docs.google.com/document/d/1u8RTfudd8ApBmxJg5l6y_HTEd6GtGsMeeZCrC3ECWEs/edit?台)
 
+###
 **The Artila Office Working PC and NB:  NB x 6pcs and PC x 8pcs (with LCD) ≒ 0.1 x 6° + 8° ≒ 8.6°/day** 
 
 **The Artila Factory Working PC and NB: PC x 4pcs (with LCD)≒ 4°/day**
@@ -53,7 +54,7 @@
   - 初估3個送風口配一顆送風馬達, 故估算為7個送風馬達 (22/3≒7)
   - **1.28 x 7 pcs = 8.96 度電/day**
   - 8.96 x 20 天 x 2 個月 = 358.4 度電
-冷氣+空調風扇＝１８０＋８．９６　＝　１８９＋８．９６　＝　１８９
+**冷氣+空調風扇＝180 + 8.96 = 189.96**
 
 =======
  日期\類別度數  | 冰箱量表值 | 冰箱單日值 | 微波爐量表值 | 微波爐單日值 | 影印機量表值 | 影印機單日值 | 飲水機量表值 | 飲水機單日值 | 除濕機量表值 | 除濕機單日值 | 單日消耗電度數 | 紀錄時間  |
