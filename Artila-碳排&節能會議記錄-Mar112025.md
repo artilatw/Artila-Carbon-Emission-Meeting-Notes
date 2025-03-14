@@ -70,7 +70,7 @@
 | 2025/3/13   | 11.53    | 1.25     | 2.608    | 0.418    | 2.738    | 0.238    | 28.43    | 3.37     | 27.78    | 7.92     | 13.196   | 10:35:00 |
 | 2025/3/14   | 12.93    | 1.4      | 3.035    | 0.427    | 2.985    | 0.247    | 31.4     | 2.97     | 31.72    | 7.88     | 12.924   | 10:35:00 |
 
-[參考資料 公司內部個儀器用電量測記錄 Updated-Electricity-Usage-Tracker3](https://docs.google.com/spreadsheets/d/15qC8A5fQTgHm3z_aiqw64yScEbDyl_wbgTKzL_kQgRc/edit?usp=sharing)
+[參考資料 公司內部特選五種儀器用電量記錄](https://docs.google.com/spreadsheets/d/15qC8A5fQTgHm3z_aiqw64yScEbDyl_wbgTKzL_kQgRc/edit?usp=sharing)
 
 
 
