@@ -32,7 +32,7 @@
 - **總照明耗電量: 辦公區域+工廠區域+其他區域 = 53.76°/day**  
 - **雙月耗電量**: 53.76 x 20 x 2 = **2150.4°**  
 
-[參考資料辦公室照明計算](https://docs.google.com/document/d/1u8RTfudd8ApBmxJg5l6y_HTEd6GtGsMeeZCrC3ECWEs/edit?台)
+[參考資料 辦公室照明計算](https://docs.google.com/document/d/1u8RTfudd8ApBmxJg5l6y_HTEd6GtGsMeeZCrC3ECWEs/edit?台)
 
 ### 辦公室工作用之比電及桌機的用電計算:
 
