@@ -34,14 +34,15 @@
 
 [參考資料](https://docs.google.com/document/d/1u8RTfudd8ApBmxJg5l6y_HTEd6GtGsMeeZCrC3ECWEs/edit?台)
 
-###
+### 辦公室工作用之比電及桌機的用電計算:
+
 **The Artila Office Working PC and NB:  NB x 6pcs and PC x 8pcs (with LCD) ≒ 0.1 x 6° + 8° ≒ 8.6°/day** 
 
 **The Artila Factory Working PC and NB: PC x 4pcs (with LCD)≒ 4°/day**
 
 **The Neighbor OFfice Working PC and NB: PC x 4 pcs + NB x 2pcs = 4° + 0.1° x 2 = 4.2°/day**
 
-**The total Working PC and NB Consumptions are:** 8.6° + 4° + 4.2° = **16.8°**
+**The Total Working PC and NB Consumptions are:** 8.6° + 4° + 4.2° = **16.8°**
 
 #### Artila Office 冰水機組每日耗電量計算
 如果 **Artila Office 冰水機組** 的耗電量為 **20kW**，且 **每天運行 9 小時**，則每日總耗電量計算如下：
