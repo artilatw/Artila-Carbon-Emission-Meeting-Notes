@@ -102,10 +102,11 @@
  - PC + LCD 電表量測功率:1000 W/day = 1度電
  - NB + LCD 電表量測功率:100 W/day = 0.1度電
   - Artila office : PC x 8 and NB x 6 = 8+ 0.6 = 8.6
+  - Artila Fab : PC x 8 = 4
   - Neighbor Office : PCx 4 and NB x 2 = 4 + 0.2
-  - Total 8.6 + 4.2 = 12.8 度電
-  - 12.8 x 20 天 x 2 個月 = 512 度電
-  - 512 x 0.494 = 252.928 CO2e Kg
+  - Total 8.6 + 4 + 4.2 = 16.8 度電
+  - 16.8 x 20 天 x 2 個月 = 672 度電
+  - 672 x 0.494 = 331.968 CO2e Kg
   
 ### Artila Office 其他偵電設備介紹
 -1. 『✨ 台灣發貨✨圖雅 WiFi 單相電能表 80A 帶 CT 夾手機 APP 千瓦時功耗監測電量統計 90-250VAC 50/60Hz』
