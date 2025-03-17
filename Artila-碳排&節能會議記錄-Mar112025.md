@@ -44,7 +44,7 @@
 
 **The Total Working PC and NB Consumptions are:** 8.6° + 4° + 4.2° = **16.8°**
 
-#### Artila Office 冰水機組每日耗電量計算
+### Artila Office 冰水機組每日耗電量計算
 
 如果 **Artila Office 冰水機組** 的耗電量為 **20kW**，且 **每天運行 9 小時**，則每日總耗電量計算如下：
 **每日耗電量計算**
