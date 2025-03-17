@@ -50,7 +50,7 @@
 **每日耗電量計算**
 **每日耗電量 = 20 kW X 9 小時 = 180 kWh**
 
-#### Air Conditioner 送風機:
+### Air Conditioner 送風機:
 - 計算方式:
   - 功率:128W/hr
   - 128W x 10小時 / 1280W = 1.28 度電/pc
