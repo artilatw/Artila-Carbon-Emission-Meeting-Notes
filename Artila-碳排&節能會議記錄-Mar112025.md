@@ -76,7 +76,7 @@
 
 [參考資料 公司內部特選五種儀器用電量比較表](https://docs.google.com/spreadsheets/d/1BrRVodPDaSFEH0GHuPvGVXwINRpEnNNpx--KrR0dTB8/edit?gid=1525734511#gid=1525734511)
 
-
+[參考資料 公司內部特選五種儀器用電量比例](https://docs.google.com/spreadsheets/d/1PrgNXNCOpbsGErynnHtXlQvFz9r9_U3tYh_gIgQmfkk/edit?gid=675070637#gid=675070637)
 
 ## 單日總耗電度數計算（Start from 2025/3/7）
 
