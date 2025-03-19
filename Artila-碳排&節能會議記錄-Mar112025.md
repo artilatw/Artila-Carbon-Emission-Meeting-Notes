@@ -92,6 +92,8 @@
 
 [參考資料 公司內部特選五種儀器用電量比例](https://docs.google.com/spreadsheets/d/1PrgNXNCOpbsGErynnHtXlQvFz9r9_U3tYh_gIgQmfkk/edit?gid=675070637#gid=675070637)
 
+<img src="./image 1/Artila 內部電器耗能Perato Chart圖片1.jpg" alt="alt text" width="350">
+
 ## 單日總耗電度數計算（Start from 2025/3/7）
 
 - **燈光耗電量+電腦耗電量+電表實際量測電量+(冷氣+空調風扇)+伺服器+其他:**
