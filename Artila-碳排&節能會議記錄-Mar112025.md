@@ -90,7 +90,11 @@
 
 [參考資料 公司內部特選五種儀器用電量比較表](https://docs.google.com/spreadsheets/d/1BrRVodPDaSFEH0GHuPvGVXwINRpEnNNpx--KrR0dTB8/edit?gid=1525734511#gid=1525734511)
 
+<<<<<<< HEAD
 [參考資料 公司內部特選五種儀器用電量比例](https://docs.google.com/spreadsheets/d/1kCelKj_-xkJ_wJvsrGyF5iBp2hHeXHKj_lz__Wuygi8/edit?gid=1328186018#gid=1328186018)
+=======
+[參考資料 公司內部特選五種儀器用電量比例](https://docs.google.com/spreadsheets/d/1yt9Q-FtWS0V29Wey1M5WpH0X-nbwu9czIZJQR1_9uto/edit?gid=1361805554#gid=1361805554)
+>>>>>>> f8b424d994ca96e8ec6e12034477b9296f653508
 
 <img src="./image 1/Artila 內部電器耗能Perato Chart圖片1.jpg" alt="alt text" width="350">
 
