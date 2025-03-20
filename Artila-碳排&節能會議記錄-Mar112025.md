@@ -86,6 +86,8 @@
 | 2025/3/14   | 12.93    | 1.4      | 3.035    | 0.427    | 2.985    | 0.247    | 31.4     | 2.97     | 31.72    | 7.88     | 12.924   | 10:35:00 |
 | 2025/3/17   | 16.31    | 3.38     | 3.292    | 0.257    | 3.621    | 0.636    | 37.61    | 2.97     | 33.26    | 3.08     | 13.563   | 10:35:00 |
 
+[參考資料 吸頂式除濕機資料](https://tw.bid.yahoo.com/item/101219266299;_ylt=AwrtkIj61ttnhwIqqXB21gt.;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--)
+
 [參考資料 公司內部特選五種儀器用電量記錄](https://docs.google.com/spreadsheets/d/15qC8A5fQTgHm3z_aiqw64yScEbDyl_wbgTKzL_kQgRc/edit?usp=sharing)
 
 [參考資料 公司內部特選五種儀器用電量比較表](https://docs.google.com/spreadsheets/d/1BrRVodPDaSFEH0GHuPvGVXwINRpEnNNpx--KrR0dTB8/edit?gid=1525734511#gid=1525734511)
