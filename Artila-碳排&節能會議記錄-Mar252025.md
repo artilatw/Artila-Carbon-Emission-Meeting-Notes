@@ -7,7 +7,7 @@
 
 - **其他區域**: **32.96°/day** 
 
-- **總照明耗電量: 辦公區域+工廠區域+其他區域 = 53.84°/day** 
+- ### **總照明耗電量: 辦公區域+工廠區域+其他區域 = 53.84°/day** 
 
 - [參考資料 辦公室照明功耗功耗計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242)
 
