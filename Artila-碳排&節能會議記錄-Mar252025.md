@@ -12,7 +12,7 @@
 - [參考資料 辦公室照明功耗功耗計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242)
 
 ## 辦公室工作用之筆電及桌機的用電計算: 
-**Working PC and NB Consumptions are: 8.6° + 4° + 4.2° = 16.8°/day**
+### **Working PC and NB Consumptions are: 8.6° + 4° + 4.2° = 16.8°/day**
 
 [參考資料 辦公室之筆電及桌機的功耗計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242)
 
