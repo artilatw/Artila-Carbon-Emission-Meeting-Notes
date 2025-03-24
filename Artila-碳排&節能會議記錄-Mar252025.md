@@ -26,7 +26,7 @@
 
 [參考資料 Artila-碳排&節能會議記錄Feb102025](Artila-碳排&節能會議記錄-Feb102025.md)
 
-## Artila 內部電器功耗量值計算:14.064°/day
+## Artila 內部電器功耗量值計算:14.06°/day
 
 [參考資料 Updated-Electricity-Usage-Tracker3](https://docs.google.com/spreadsheets/d/15qC8A5fQTgHm3z_aiqw64yScEbDyl_wbgTKzL_kQgRc/edit?gid=1158469006#gid=1158469006)
 
@@ -42,8 +42,10 @@
 根據可查詢的資料，Hitachi RDI-640HH除濕機的額定消耗電功率為440瓦特，每日除濕能力為32公升。 ​然而，關於MEDOLE MD-62LB除濕機的功耗資訊，額定消耗電功率為600瓦特，每日除濕能力為31公升。現在使用之除濕機Panasonic F-YV32LX 額定消耗電功率為191瓦特，每日除濕能力為16公升。
 
 [參考資料 Hitachi吸頂式除濕機](https://tw.bid.yahoo.com/item/101219266299;_ylt=AwrtkIj61ttnhwIqqXB21gt.;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--)
+
 [參考資料 MEDOLE MD-62LB吸頂式除濕機](https://www.medole.com.tw/hanging-hidden-air-duct-dehumidifier.htm)
 
 ### 洗手間開關工程討論:
 **1. 開關移位到外牆**
+
 **2. 開關線路拉線移位到門口左邊內牆**
