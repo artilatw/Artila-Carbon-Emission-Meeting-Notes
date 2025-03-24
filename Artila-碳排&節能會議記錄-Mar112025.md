@@ -34,7 +34,7 @@
 
 [參考資料 辦公室照明計算](https://docs.google.com/document/d/1u8RTfudd8ApBmxJg5l6y_HTEd6GtGsMeeZCrC3ECWEs/edit?台)
 
-### 辦公室工作用之比電及桌機的用電計算:
+### [參考資料 辦公室照明計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242):
 
   #### Artila Office Working PC and NB:  NB x 6pcs and PC x 8pcs (with LCD) ≒ 0.1 x 6° + 8° ≒ 8.6°/day 
 
