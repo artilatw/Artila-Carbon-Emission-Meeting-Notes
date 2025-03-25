@@ -7,9 +7,9 @@
 
 - **其他區域**: **32.96°/day** 
 
-- ### **總照明耗電量: 辦公區域+工廠區域+其他區域 = 53.84°/day** 
+### **總照明耗電量: 辦公區域+工廠區域+其他區域 = 53.84°/day** 
 
-- [參考資料 辦公室照明功耗功耗計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242)
+ [參考資料 辦公室照明功耗功耗計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242)
 
 ## 辦公室工作用之筆電及桌機的用電計算: 
 ### **Working PC and NB Consumptions are: 8.6° + 4° + 4.2° = 16.8°/day**
@@ -37,7 +37,7 @@
 
 ### 吸頂式除濕機比較:
 
-根據可查詢的資料，Hitachi RDI-640HH除濕機的額定消耗電功率為440瓦特，每日除濕能力為32公升。 ​關於MEDOLE MD-62LB除濕機的功耗資訊(永曜雲所推薦之機型)，額定消耗電功率為600瓦特，每日除濕能力為31公升。現在使用之除濕機Panasonic F-YV32LX 額定消耗電功率為191瓦特，每日除濕能力為16公升。目前進一步詢問永曜雲所推薦機型在節能規格上對公司的適合度。
+根據可查詢的資料，Hitachi RDI-640HH除濕機的額定消耗電功率為440瓦特，每日除濕能力為32公升。 ​關於MEDOLE MD-62LB除濕機的功耗資訊(永曜雲所推薦之機型)，額定消耗電功率為600瓦特，每日除濕能力為31公升。現在使用之除濕機Panasonic F-YV32LX 額定消耗電功率為191瓦特，每日除濕能力為16公升。目前仍進一步詢問永曜雲所推薦機型在節能規格上對公司的適合度。
 
 [參考資料 Hitachi吸頂式除濕機](https://tw.bid.yahoo.com/item/101219266299;_ylt=AwrtkIj61ttnhwIqqXB21gt.;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--)
 
