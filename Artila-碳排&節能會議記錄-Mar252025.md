@@ -41,7 +41,7 @@
 
 [參考資料 Hitachi吸頂式除濕機](https://tw.bid.yahoo.com/item/101219266299;_ylt=AwrtkIj61ttnhwIqqXB21gt.;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--)
 
-[參考資料 Hitachi吸頂式除濕機規格](https://drive.google.com/drive/u/1/my-drive)
+[參考資料 Hitachi吸頂式除濕機規格](https://drive.google.com/drive/u/1/my-drive?q=type:pdf%20parent:0ALljVrL0ZT1GUk9PVA)
 
 [參考資料 MEDOLE MD-62LB吸頂式除濕機](https://www.medole.com.tw/hanging-hidden-air-duct-dehumidifier.htm)
 
