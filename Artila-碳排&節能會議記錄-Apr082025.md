@@ -3,14 +3,16 @@
 ## 1. 照明  
 **Every set minus 2 pcs of tube**  
 
-| 位置      | 燈管數量減少 |
-|-----------|-------------|
-| Lobby    | 20 pcs      |
-| Aisle    | 14 pcs      |
-| Restroom | 8 pcs       |
-| 茶水間    | 4 pcs       |
-| Meeting room | 8 pcs   |
-| **Total** | **54 pcs** |
+| 位置      | 燈管數量減少 | 使用時間(HR) |
+|-----------|-------------|---------|
+| Lobby    | 20 pcs      |  12      |
+| Aisle    | 14 pcs      |  12      |
+| Restroom | 8 pcs       |   9      |
+| 茶水間    | 4 pcs       |   9      |
+| Meeting room | 8 pcs   |    2     |
+| **Total** | **54 pcs** |          |
+
+(20x12 + 14x12 + 8x9 + 4x9 + 8x2)x 10Watt = 5320Watt = 5.32 KW per day = 5.32 度電
 
 ## 2. 冰水主機與空調  
 ### (1) 運電表實際量測其冰水主機之功耗  
