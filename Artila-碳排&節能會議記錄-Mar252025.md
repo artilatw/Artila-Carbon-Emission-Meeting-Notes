@@ -16,9 +16,11 @@
 
 [參考資料 辦公室之筆電及桌機的功耗計算](https://docs.google.com/spreadsheets/d/1c7QFDcjlNTmn6KBwS813Ob_AtV9xFkQ1gT8A5sbCh8w/edit?gid=914020242#gid=914020242)
 
-## Artila Air Conditioner: **180 + 8.96 ≒ 190°/day**
+## 理論 Artila Air Conditioner: **180 + 8.96 ≒ 190°/day**
+## 實際 Artila Air Conditioner: **90 + 8.96 ≒ 100°/day**
 
-### Office 冰水機組每日耗電量計算: **180°/day**
+### 理論值 : Office 冰水機組每日耗電量計算: **180°/day**
+### 實際值 : 經由安裝AI電表量測之每日平均耗電為 **90 °/day**
 
 ### Air Conditioner 送風機:**8.96°/day**
 
