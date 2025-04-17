@@ -33,6 +33,7 @@
 **(1) 從昨天(start from 10:45am，04/15/2025)開始運行到現在(09:35am, 04/16/2025)，功耗一個工作天大約消耗90KW (90度電)。**
 
 **(2) Check time 10:40am, 04/17/2025，total功耗 is 202 KW，202-90 = 112KW，一個工作天大約消耗112KW (112度電)。** 
+[參考資料 Artila冷水機日平均功耗](https://docs.google.com/spreadsheets/d/1gkb2RRZo9ihp5AxCzt4SJpiKxwl4ZTPeJ4A9dA4WLyo/edit?gid=0#gid=0)
 
 ### 4. 了解如何申請經濟部節能補助。
 
